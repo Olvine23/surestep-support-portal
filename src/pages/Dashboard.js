@@ -24,7 +24,7 @@ const DashBoard = () => {
             avatar: 'https://sessionize.com/image/1f04-400o400o2-axQER7K3bRNgrpUT9G7P8n.jpg',
             status:'working on it',
             priority:5,
-            progress: 40,
+            progress: 70,
             description:'Just testing',
             timestamp: '2023-02-11T07:36:17+0000'
 
@@ -36,8 +36,8 @@ const DashBoard = () => {
             owner:  'Olvine',
             avatar: 'https://sessionize.com/image/1f04-400o400o2-axQER7K3bRNgrpUT9G7P8n.jpg',
             status:'stuck',
-            priority:5,
-            progress: 40,
+            priority:2,
+            progress: 10,
             description:'Just testing',
             timestamp: '2023-02-11T07:36:17+0000'
 
